@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">SamsunTour</string>
+
+    <string name="category_hotel">Hotel</string>
+
+    <string name="category_places">Places</string>
+
+    <string name="category_malls">Malls</string>
+
+    \\ Tab One Information
+    <string name="category_museums">Museums</string>
+    <string name="places_1_title">Ataturk Park</string>
+    <string name="places_1_desc">Is one of the most oldest parks in the city.</string>
+    <string name="place_1_location">Samsun Belediye Park</string>
+    <string name="place_1_time">09 Am - 10 Pm</string>
+    <string name="place_1_phone">No number</string>
+
+    <string name="places_2_title">Tutun Iskelesi</string>
+    <string name="places_2_desc">Is one of the most oldest parks in the city.</string>
+    <string name="place_2_location">Samsun Belediye Park</string>
+    <string name="place_2_time">09 Am - 10 Pm</string>
+    <string name="place_2_phone">No number</string>
+
+    <string name="places_3_title">Su şehir</string>
+    <string name="places_3_desc">Is one of the most oldest parks in the city.</string>
+    <string name="place_3_location">Samsun Belediye Park</string>
+    <string name="place_3_time">10 Am - 7 Pm</string>
+    <string name="place_3_phone">0500087424</string>
+
+    <string name="places_4_title">Bilder auf</string>
+    <string name="places_4_desc">Is one of the most oldest parks in the city.</string>
+    <string name="place_4_location">Samsun Belediye Park</string>
+    <string name="place_4_time">10 Am - 7 Pm</string>
+    <string name="place_4_phone">No number</string>
+
+    \\ Tab Tow Information
+    <string name="Hotel_1_title">Anemon Hotel</string>
+    <string name="Hotel_1_desc">Is one of the best Hotel in the city.</string>
+    <string name="Hotel_1_location">Samsun Belediye Park</string>
+    <string name="Hotel_1_time">24 h </string>
+    <string name="Hotel_1_phone">0504633333</string>
+
+    <string name="Hotel_2_title">Hampton Hotel</string>
+    <string name="Hotel_2_desc">Is one of the best Hotel in the city.</string>
+    <string name="Hotel_2_location">Samsun Belediye Park</string>
+    <string name="Hotel_2_time">24 h</string>
+    <string name="Hotel_2_phone">0504633333</string>
+
+    <string name="Hotel_3_title">Sheraton Hotel</string>
+    <string name="Hotel_3_desc">Is one of the best Hotel in the city.</string>
+    <string name="Hotel_3_location">Samsun Belediye Park</string>
+    <string name="Hotel_3_time">10 Am - 7 Pm</string>
+    <string name="Hotel_3_phone">0500087424</string>
+
+    <string name="Hotel_4_title">Tuna Hotel </string>
+    <string name="Hotel_4_desc">Is one of the best Hotel in the city.</string>
+    <string name="Hotel_4_location">Samsun Belediye Park</string>
+    <string name="Hotel_4_time">24 h</string>
+    <string name="Hotel_4_phone">No number</string>
+
+    \\ Tab Three Information
+    <string name="museum_1_title">Amazon Museum</string>
+    <string name="museum_1_desc">Is one of the most best Museum in the city.</string>
+    <string name="museum_1_location">Samsun Belediye Park</string>
+    <string name="museume_1_time">09 Am - 10 Pm</string>
+    <string name="museum_1_phone">No number</string>
+
+    <string name="museum_2_title">Ataturk Museum</string>
+    <string name="museum_2_desc">Is one of the most oldest Museum in the city.</string>
+    <string name="museum_2_location">Samsun Belediye Park</string>
+    <string name="museum_2_time">09 Am - 10 Pm</string>
+    <string name="museum_2_phone">No number</string>
+
+    <string name="museum_3_title">Su şehir</string>
+    <string name="museum_3_desc">Is one of the most oldest parks in the city.</string>
+    <string name="museum_3_location">Samsun Belediye Park</string>
+    <string name="museum_3_time">10 Am - 7 Pm</string>
+    <string name="museum_3_phone">0500087424</string>
+
+    <string name="museum_4_title">Bilder auf</string>
+    <string name="museum_4_desc">Is one of the most oldest parks in the city.</string>
+    <string name="museum_4_location">Samsun Belediye Park</string>
+    <string name="museum_4_time">10 Am - 7 Pm</string>
+    <string name="museum_4_phone">No number</string>
+
+    \\ Tab Four Information
+    <string name="mall_1_title">Pizza Mall</string>
+    <string name="mall_1_desc">Is one of the most biggest Mall in the city.</string>
+    <string name="mall_1_location">Samsun Belediye Park</string>
+    <string name="mall_1_time">09 Am - 10 Pm</string>
+    <string name="mall_1_phone">No number</string>
+
+    <string name="mall_2_title">Ataturk Mall</string>
+    <string name="mall_2_desc">Is one of the most biggest Mall in the city.</string>
+    <string name="mall_2_location">Samsun Belediye Park</string>
+    <string name="mall_2_time">09 Am - 10 Pm</string>
+    <string name="mall_2_phone">No number</string>
+
+    <string name="mall_3_title">Deniz Mall</string>
+    <string name="mall_3_desc">Is one of the most biggest Mall in the city.</string>
+    <string name="mall_3_location">Samsun Belediye Park</string>
+    <string name="mall_3_time">10 Am - 7 Pm</string>
+    <string name="mall3_phone">0500087424</string>
+    <string name="places">Places</string>
+    <string name="hotel">Hotel</string>
+    <string name="museums">Museums</string>
+    <string name="malls">Malls</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
+    <string name="location">location</string>
+    <string name="time">time</string>
+    <string name="phone">phone</string>
+</resources>
